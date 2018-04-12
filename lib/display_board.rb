@@ -1,9 +1,9 @@
 def display_board
-puts "
-   |   |
------------
-   |   |
------------
-   |   |
-"
+cell = "   |   |   "
+row = "-----------"
+puts cell
+puts row
+puts cell
+puts row
+puts cell
 end
