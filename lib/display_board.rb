@@ -7,5 +7,3 @@ def display_board
    |   |
    "
 end
-    |   |   "
-end
